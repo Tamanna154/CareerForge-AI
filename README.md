@@ -89,37 +89,8 @@ Create a .env file in the root directory:
 
 VITE_GEMINI_API_KEY=your_gemini_api_key
 
-📂 **Images**
-<img width="1906" height="840" alt="image" src="https://github.com/user-attachments/assets/0c3e45e9-ae51-49fa-a734-a35fd0a557fa" />
-
-
-**Opportunity Updates**
-<img width="1899" height="843" alt="image" src="https://github.com/user-attachments/assets/3b8d429a-43ae-48cc-b212-51c88f4c2bf8" />
-
-
-
-**Roadmap Generator**
-<img width="1914" height="840" alt="image" src="https://github.com/user-attachments/assets/5c612899-d388-47de-8b22-7ee9d197c512" />
-<img width="1901" height="844" alt="image" src="https://github.com/user-attachments/assets/e78b2ffd-a474-4deb-bb12-8ee928316714" />
-
-
-**Schedule the Interview Slot for Practice**
-<img width="1905" height="843" alt="image" src="https://github.com/user-attachments/assets/2bfa70fd-3080-4c9d-95e5-a13d4476a7e6" />
-
-
-**Live Interview**
-<img width="1910" height="851" alt="image" src="https://github.com/user-attachments/assets/23057d78-994a-4e6b-a145-427632846147" />
-
-
-**After the interview generate the Dashboard For improvement**
-<img width="1909" height="851" alt="image" src="https://github.com/user-attachments/assets/5aa9ed21-9f96-4065-bb3a-b833ad84ed5a" />
-
-
-
-
-
-
-
+📂 **Video Link:**
+https://drive.google.com/file/d/1p83RSfSqY4Atqm9kvTjnlq-zmfaTEdNH/view?usp=sharing
 
 ✨**Key Highlights**
 
